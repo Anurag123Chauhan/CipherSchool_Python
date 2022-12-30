@@ -9,3 +9,5 @@ print(3%2) # Modulo Opertator
 print("Follows PEMDAS")
 print((2+3)/5)
 print(2**3**2)
+payment
+send money
